@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shaghafr
-- 👀 I’m interested in programming
+- 👀 I’m interested in Web Programming.
 - 🌱 I’m currently programming in Python especifically Neural Network libs
-- 💞️ I’m looking to collaborate on ML 
+- 💞️ I’m looking to collaborate on ML and AI projects
 - 📫 How to reach me ...
 
 <!---
